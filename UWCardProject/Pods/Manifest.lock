@@ -1,0 +1,13 @@
+PODS:
+  - SDAutoLayout (1.1)
+  - YYWebImage (0.9.11)
+
+DEPENDENCIES:
+  - SDAutoLayout (~> 1.1)
+  - YYWebImage (~> 0.9.11)
+
+SPEC CHECKSUMS:
+  SDAutoLayout: abfdc9d1ae3e4b2f4eb0dba6cdbe4f6264fa26be
+  YYWebImage: a65b28461dc63d3b84de7c06ea0fbc4d46cdcd16
+
+COCOAPODS: 0.39.0

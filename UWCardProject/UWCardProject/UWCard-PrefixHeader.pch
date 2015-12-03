@@ -1,0 +1,20 @@
+//
+//  UWCard-PrefixHeader.pch
+//  UWCardProject
+//
+//  Created by 王智超 on 15/12/2.
+//  Copyright © 2015年 com.fengur. All rights reserved.
+//
+
+#ifndef UWCard_PrefixHeader_pch
+#define UWCard_PrefixHeader_pch
+#import "UIImageView+YYWebImage.h"
+#import "UIView+SDAutoLayout.h"
+//获取设备的物理高度
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+//获取设备的物理宽度
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* UWCard_PrefixHeader_pch */
